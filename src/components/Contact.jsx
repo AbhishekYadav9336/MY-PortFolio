@@ -60,7 +60,7 @@ function Contact() {
                 className="shadow rounded-lg appearance-none border  py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
                 id="email"
                 name="email"
-                type="text"
+                type="email"
                 placeholder="Enter your email address"
               />
               {errors.email && <span>This field is required</span>}
