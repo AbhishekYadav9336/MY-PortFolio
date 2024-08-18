@@ -26,7 +26,7 @@ function About() {
           Skills & Expertise
         </h1>
         <br/>
-        <h2><b>Technical Skills</b></h2>
+        <h2 className="text-gray-500 font-semibold ">Technical Skills</h2>
           
         <span>
         •	Programming Languages -- C,C++.<br/>
@@ -34,7 +34,7 @@ function About() {
 •	 Strong grasp of Data structure.<br/>
         </span>
         <br/>
-        <h2><b>Interpersonal Skills</b></h2>
+        <h2 className="text-gray-500 font-semibold ">Interpersonal Skills</h2>
         <span>
         • Effective communicator<br/>
 • Team-Player<br/>
